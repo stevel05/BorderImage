@@ -1,0 +1,9 @@
+**/Objects
+**/AutoBackups
+**/ModuleArchive
+**/NoteTaker
+*.meta
+*.zip
+*.mp4
+Manifest.txt
+aaaIDElinks.bas
